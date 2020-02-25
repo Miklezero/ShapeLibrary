@@ -1,15 +1,10 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
-using MyShapeLibrary;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+
 
 namespace MyShapeLibrary.Tests
 {
     [TestClass()]
-    public class TriangsTests
+    public class MyTriangsTests
     {
         [TestMethod()]
         public void Square_12_12_13_65returned()
